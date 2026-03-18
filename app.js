@@ -1,7 +1,7 @@
 console.log("App starteed");
 
-function navbar(){
-    console.log("Navbar Added");
+function login(){
+    console.log("login from main branch");
 }
 
-navbar();
+login();
